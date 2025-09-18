@@ -50,4 +50,5 @@ Final Year B.Tech Student at IIT Ropar | Software Developer & AI/ML Enthusiast
 nishant-8009/nishant-8009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 You can click the Preview link to take a look at your changes.  
 --->  
+  <img src="https://komarev.com/ghpvc/?username=nishant-8009&color=blue" width="1" height="1" />
 </div>  
